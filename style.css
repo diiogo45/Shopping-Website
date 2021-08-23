@@ -1,0 +1,153 @@
+* {
+
+margin: 0px;
+padding: 0px;
+border: none;
+
+}
+
+
+.cabecalho {
+
+background-color: black;
+height: 120px;
+
+}
+
+.entrar {
+
+	color: white;
+	position: absolute;
+	left: 830px;
+	top: 50px;
+	text-decoration: underline;
+	margin-top: 10px;
+
+}
+
+.Criar-Conta {
+
+	color: white;
+	position: absolute;
+	left: 890px;
+	top: 50px;
+	text-decoration: underline;
+	margin-top: 10px;
+}
+
+img {
+
+	position: absolute;
+	left: 320px;
+	margin-top: 10px;
+
+}
+
+.fa-facebook-f {
+
+	color: white;
+	position: absolute;
+	top: 70px;
+	margin-left: 40px;
+
+}
+
+.fa-instagram {
+
+	color: white;
+
+position: absolute;
+	top: 70px;
+	margin-left: 80px;
+
+}
+
+.fa-twitter {
+
+	color: white;
+	position: absolute;
+	top: 70px;
+	margin-left: 120px;
+
+}
+
+
+.fa-search {
+
+color: white;
+
+position: absolute;
+	top: 70px;
+	margin-left: 320px;
+
+
+}
+.procurar {
+
+	color: white;
+	position: absolute;
+	left: 250px;
+    top: 70px;
+    text-decoration: underline;
+
+
+}
+
+.fa-shopping-cart {
+
+	color: white;
+	position: absolute;
+	left: 980px;
+    top: 60px;
+}
+
+
+
+.menu ul li  {
+display: inline-block;
+font-size: 20px;
+margin-left: 30px;
+margin-top: 10px;
+
+
+
+
+}
+
+.menu ul li a {
+text-decoration: none;
+color: black;
+
+}
+
+.menu ul {
+
+	height: 50px;
+}
+
+.menu ul li :hover {
+
+	color: gray;
+	
+
+}
+
+
+.imagem-01 {
+height: 400px;
+
+}
+
+.imagem-02 {
+	height: 400px;
+	position: absolute;
+	left: 600px;
+	
+}
+
+.imagem-03 {
+	height: 400px;
+	position: absolute;
+	left: 40px;
+	
+}
