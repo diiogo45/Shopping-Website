@@ -1,6 +1,6 @@
 ## - INFORMAÇÕES SOBRE O PROJETO -##  
 
-Website de compras utilizando HTML & CSS
+Website de compras de roupas utilizando HTML & CSS
 
 
 ## - CONTRIBUIDORES - ##
